@@ -1,6 +1,6 @@
 # RealTimeChat
 
-A real time chat, made with ReactJS, NodeJS, ExpressJS and Socket.io.
+A full stack real time chat project, made with ReactJS, NodeJS, ExpressJS and Socket.io.
 I have deployed it to Microsoft Azure as an App Service so you can check it out: https://chat-kp.azurewebsites.net.
 There are 2 version, one that can be run on localhost and one that is ready to be deployed.
 
